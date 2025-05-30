@@ -1,0 +1,3 @@
+PRIMARY KEY: Cada tabela só pode ter uma chave primária, os valores não podem repetir e nem ser nulos. Acaba que identifica de forma única cada registro dentro de uma tabela. Garante que possa ser identificado de forma precisa.
+FOREIGN KEY: Utilizada para criar um relacionamento entre duas tabelas. Permite só valores que existam na tabela de referencia.
+As duas juntas ajudam um SGBD, chave primária vai garantiar que os dados em uma tabela sejam únicos e chave estrangeira, irá conectar duas ou mais tabelas permitindo montar consultas relacionadas. 
